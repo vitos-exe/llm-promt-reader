@@ -11,4 +11,6 @@ wheels/
 
 uv.lock
 .python-version
+.gradio
+data
 
